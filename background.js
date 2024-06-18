@@ -1,0 +1,1 @@
+// This can be used to handle background processes if needed
